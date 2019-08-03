@@ -1,3 +1,5 @@
 content in dir 1
 
 //new text in dir 1
+
+change new
